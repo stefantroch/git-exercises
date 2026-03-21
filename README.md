@@ -70,7 +70,7 @@ git merge ex3-merge/feature
 git add menu.html
 git commit
 ```
-
+![exo3](image-2.png)
 ---
 
 ## Exercice 4 — Squash
