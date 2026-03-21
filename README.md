@@ -25,6 +25,7 @@ L'historique n'est plus linéaire.
 
 **Résultat attendu :** L'historique de `ex1-rebase/feature` est linéaire ;
 ses commits apparaissent *après* ceux de `ex1-rebase/main`.
+![exo1](image.png)
 
 ---
 
