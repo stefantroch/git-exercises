@@ -47,6 +47,8 @@ doublons "FINAL / FINAL v2", corrections d'oublis en commits séparés.
 
 *Utilisez `squash`, `fixup` et `reword` dans l'éditeur interactif.*
 
+![exo2](image-1.png)
+
 ---
 
 ## Exercice 3 — Merge avec conflit
