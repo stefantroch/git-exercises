@@ -87,7 +87,7 @@ avant de les intégrer.
 ...  TODO ...
 git commit -m "feat: ajouter le footer complet"
 ```
-
+![exo4](image-3.png)
 ---
 
 ## Exercice 5 — Cherry-pick
