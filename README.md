@@ -118,6 +118,7 @@ git cherry-pick <hash-du-fix-xss>
 ```
 
 ---
+![exo5](image-4.png)
 
 ## Récapitulatif des branches
 
